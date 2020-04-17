@@ -1,0 +1,68 @@
+/* jumbotron styles */
+.jumbotron {
+    color: #2c3e50;
+    background: #719faa;
+    opacity: 0.5;
+}
+
+.topJumbo {
+    padding-top: 70px;
+}
+
+.brandImage {
+    width: 300px;
+    height: 250px;
+}
+
+.brandImage2 {
+    width: 300px;
+    height: 300px;
+}
+
+.title {
+    font-family: "Montserrat";
+    text-align: center;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    height: 20vh;
+    letter-spacing: 1px;
+}
+
+h1 {
+    background-image: url(https://media1.giphy.com/media/JXHhI4o9NCf8k/200.webp?cid=ecf05e471eeb91131275e2575f72b1c790757a6866884e2e&rid=200.webp);
+    background-size: cover;
+    color: transparent;
+    -moz-background-clip: text;
+    -webkit-background-clip: text;
+    text-transform: uppercase;
+    font-size: 100px;
+    line-height: 0.75;
+    margin: 10px 0;
+    padding: 10px 0;
+}
+
+/* navbar styles */
+.myBlue {
+    background: #2c3e50;
+}
+
+#navbarToggleExternalContent>div>ul>li>a {
+    color: white;
+}
+
+body {
+    background-image: url("img/nasa.jpg");
+}
+
+/* aboutme */
+
+.opage {
+    opacity: 0.65;
+}
+
+.paratext {
+    color: white;
+}
